@@ -24,11 +24,11 @@ A sleek and simple To-Do List web application with a fully responsive **dark the
 ---
 
 ## 📂 Project Structure
-personal_todo_list/
- -index.html # Main HTML file
- -style.css # Dark theme styling
- -script.js # Task logic and interactivity
- -README.md # Project overview
+
+ - index.html # Main HTML file
+ - style.css # Dark theme styling
+ - script.js # Task logic and interactivity
+ - README.md # Project overview
 
 ---
 
